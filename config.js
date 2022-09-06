@@ -17,25 +17,25 @@ global.APIKeys = {
 }
 
 //settings
-global.welcomeandgoodbye = 'false' //welcome එක off කරන්න ඕනෙ නම් false දාන්න.
+global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ නම් false දාන්න.
 global.callblock = 'false' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 
 //Owner React
-global.OWNER_REACT = 'false' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9463158' //මෙතන number එක.
+global.OWNER_REACT = '😊' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = '94764706922' //මෙතන number එක.
 
 // Other
-global.owner = ['94763867158',''] //මෙතන number එක.
-global.premium = ['94763867158','94763867158'] //මෙතන number එක.
-global.botname = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱' //මෙතන නම.
-global.ownername = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱' //මෙතන නම.
-global.ownername = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/EgkMqWu1Kq475RhZkXwUTV' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/EgkMqWu1Kq475RhZkXwUTV' //මෙතන grouplink එක.
-global.packname = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱' //මෙතන නම.
-global.cap = '*BY ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱*' //මෙතන නම.
-global.img = 'https://i.ibb.co/VTxVmF6/20220821-153441.jpg .jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtube.com/channel/UCxqpAzaAecDfYOPywxUJoyw' //මෙතන කැමති ලින්ක් එකක්.
+global.owner = ['94764706922',''] //මෙතන number එක.
+global.premium = ['94764706922','94764706922'] //මෙතන number එක.
+global.botname = '⚬❮❮❦𝐀𝐍𝐔𝐖𝐀❦❯❯⚬' //මෙතන නම.
+global.ownername = '⚬❮❮❦𝐀𝐍𝐔𝐖𝐀❦❯❯⚬' //මෙතන නම.
+global.ownername = '⚬❮❮❦𝐀𝐍𝐔𝐖𝐀❦❯❯⚬' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/CY0jaJe5kWqCzUeLvjQrh3' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/CY0jaJe5kWqCzUeLvjQrh3' //මෙතන grouplink එක.
+global.packname = '⚬❮❮❦𝐀𝐍𝐔𝐖𝐀❦❯❯⚬' //මෙතන නම.
+global.cap = '*BY ⚬❮❮❦𝐀𝐍𝐔𝐖𝐀❦❯❯⚬*' //මෙතන නම.
+global.img = 'https://i.ibb.co/XZKtQcX/IMG-20220906-WA0029.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.ytchannel = 'https://chat.whatsapp.com/CY0jaJe5kWqCzUeLvjQrh3' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
@@ -56,7 +56,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip' //මෙතන මාරු කරන්න එපා.
 global.f5 = 'application/pdf' //මෙතන මාරු කරන්න එපා.
 global.f6 = 'application/vnd.android.package-archive' //මෙතන මාරු කරන්න එපා.
-global.author = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ BOT INC' //මෙතන නම.
+global.author = '⚬❮❮❦𝐀𝐍𝐔𝐖𝐀❦❯❯⚬ BOT INC' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
